@@ -39,7 +39,12 @@ footer img {
     width: 45px;
     height: 45px;
     border-radius: 50px;
+    transition-duration: 0.2s;
+    
 
+}
+footer img:hover {
+    border: 3px solid  rgb(3, 192, 3)
 }
 footer p {
    color:  rgb(3, 192, 3);
